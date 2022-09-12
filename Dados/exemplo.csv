@@ -1,0 +1,7 @@
+A1,A2,Resultado
+T,T,+
+T,T,+
+T,F,-
+F,T,+
+F,F,-
+F,F,-
